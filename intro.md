@@ -1,11 +1,10 @@
-# Welcome to your Jupyter Book
+# Vancouver tree dataset
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This Jupyter book will give some insight into Vancouver's tree population and is a short example about what you can do with a Jupyter Book.
 
-Check out the content pages bundled with this sample book to see more.
+You can use the table of contents to navigate through the files in this book.
+
+The files for this book are hosted at https://github.com/matthewconnell/jbook_example.git
 
 ```{tableofcontents}
 ```
