@@ -3,6 +3,8 @@
 
 format: jb-book
 root: intro
-chapters:
+parts:
+- caption: Overview
+  chapters:
   - file: EDA.ipynb
-  - file: EDA_conclusions.md
+  - file: EDA_conclusions

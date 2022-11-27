@@ -31,4 +31,4 @@ html:
   use_issues_button: true
   use_repository_button: true
 
-exclude_patterns: [logo.png, notebooks.ipynb, references.bib, jnb1.ipynb]
+exclude_patterns: [logo.png, notebooks.ipynb, references.bib]
