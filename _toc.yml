@@ -4,5 +4,5 @@
 format: jb-book
 root: intro
 chapters:
-  - file: markdown1.md
-  - file: jnb2.ipynb
+  - file: EDA.ipynb
+  - file: EDA_conclusions.md
